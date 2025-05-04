@@ -1,6 +1,6 @@
-dagster==1.8.4
-dagit==1.8.4
-dagster-webserver==1.8.4
+dagster==1.5.12
+dagit==1.5.12
+dagster-webserver==1.5.12
 google-cloud-bigquery
 gspread
 oauth2client
