@@ -1,0 +1,7 @@
+dagster==1.7.11
+dagit==1.7.11
+dagster-webserver==1.7.11
+google-cloud-bigquery
+gspread
+oauth2client
+pandas
