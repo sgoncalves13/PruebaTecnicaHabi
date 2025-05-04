@@ -1,3 +1,7 @@
 dagster-env/
 
+.tmp_dagster_home_dvluigqu/
+
+__pycache__/
+
 papyrus-technical-test-c1c9d41dad00.json

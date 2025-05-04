@@ -1,7 +1,8 @@
-dagster==1.5.12
-dagit==1.5.12
-dagster-webserver==1.5.12
+dagster
+dagit
+dagster-webserver
 google-cloud-bigquery
 gspread
 oauth2client
 pandas
+google-cloud-bigquery[pandas]
